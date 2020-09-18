@@ -1,5 +1,7 @@
 ## Welcome!
 
+![color swatch](https://github.com/emilymbradley/portfolio2020/blob/gh-pages/Images/Screenshot%202020-09-18%20at%2010.18.16%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/emilymbradley/portfolio2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
